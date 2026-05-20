@@ -24,8 +24,8 @@ I been learning python for 2 years html for 1 year css for 2 months
 <a href="https://www.github.com/kubaxone" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kubaxone?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/KubaxoneYT" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KubaxoneYT?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/@kubaxoneyt" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/@kubaxoneyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a><a href="https://www.twitch.tv/kubaxoneyt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/kubaxoneyt?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
